@@ -2,17 +2,17 @@
 Aleksander Szymański
 Krzysztof Sławik
 ## evolution
-### Crossing
+### [Crossing](https://github.com/KrzysiekSlawik/evolutionary-height-map-approximation/blob/main/Assets/Scripts/AI/TempEvo.cs#L41)
 Crossing alowes us to change structure of map trees.
 It combines two trees by randomly choosing branch from tree 'A' and randomly choosing node from tree 'B' at which branch should be pasted.
 New tree coming from crossing replaces one of parents. (only if it is better)
 Previously we simply added new tree to population. 
-### Mutation
+### [Mutation](https://github.com/KrzysiekSlawik/evolutionary-height-map-approximation/blob/main/Assets/Scripts/AI/TempEvo.cs#L75)
 Mutation alowes us to tweak parameters in existing trees.
 It alters parameters of given tree. (saves changes only if it improves reward)
-### Randomization
+### [Randomization](https://github.com/KrzysiekSlawik/evolutionary-height-map-approximation/blob/main/Assets/Scripts/AI/TempEvo.cs#L99)
 Each generation adds to population random trees, which alowes to reduce homogenization of population.
-### Trimming population
+### [Trimming population](https://github.com/KrzysiekSlawik/evolutionary-height-map-approximation/blob/main/Assets/Scripts/AI/TempEvo.cs#L37)
 At this step population is being sorted and trimmed to fit population size.
 ### Rewarding
 Reward scale is 0 to infinity, best to worst. Most of the methods were based on counting mean difference of values in the same coordinates of generated height map and the target height map.
@@ -36,6 +36,7 @@ where depthPenalty = 1 + depthPenaltyFactor * depth
 Map tree consists of binnary operators and primitives (leaves).
 Binnary operators: Sum(+), Product(*), Max, Min
 Primitives: Perlin noise, constant, X param, Y param, elipsoid
+[Example](islandWithMountain.xml)
 ## Results
 first target
 ![](https://i.imgur.com/Np1LuvI.png)
