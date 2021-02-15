@@ -1,0 +1,1592 @@
+<?xml version="1.0"?>
+<HMapGen xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="MinHMap">
+  <genes>
+    <float>0</float>
+    <float>0</float>
+  </genes>
+  <a xsi:type="ElipseHMap">
+    <genes>
+      <float>-0.2853347</float>
+      <float>0.327835858</float>
+      <float>2.369635</float>
+      <float>1.25094259</float>
+      <float>1.23330033</float>
+    </genes>
+  </a>
+  <b xsi:type="MinHMap">
+    <genes>
+      <float>0</float>
+      <float>0</float>
+    </genes>
+    <a xsi:type="ElipseHMap">
+      <genes>
+        <float>0.3595969</float>
+        <float>0.438013017</float>
+        <float>7.66966534</float>
+        <float>2.21529746</float>
+        <float>0.936755061</float>
+      </genes>
+    </a>
+    <b xsi:type="ProductHMap">
+      <genes>
+        <float>0</float>
+        <float>0</float>
+      </genes>
+      <a xsi:type="SumHMap">
+        <genes>
+          <float>0</float>
+          <float>0</float>
+        </genes>
+        <a xsi:type="SumHMap">
+          <genes>
+            <float>0.345598429</float>
+            <float>-0.736620665</float>
+          </genes>
+          <a xsi:type="ElipseHMap">
+            <genes>
+              <float>-0.8245251</float>
+              <float>0.198137164</float>
+              <float>0.9548092</float>
+              <float>0.75154227</float>
+              <float>0.654168963</float>
+            </genes>
+          </a>
+          <b xsi:type="MinHMap">
+            <genes>
+              <float>-0.496846318</float>
+              <float>-0.4578718</float>
+            </genes>
+            <a xsi:type="ElipseHMap">
+              <genes>
+                <float>-0.8245251</float>
+                <float>0.198137164</float>
+                <float>0.609580457</float>
+                <float>0.75154227</float>
+                <float>0.654168963</float>
+              </genes>
+            </a>
+            <b xsi:type="MinHMap">
+              <genes>
+                <float>-0.733126163</float>
+                <float>0.6052904</float>
+              </genes>
+              <a xsi:type="ConstHMap">
+                <genes>
+                  <float>-0.10947144</float>
+                  <float>-0.694486856</float>
+                  <float>-0.188703716</float>
+                </genes>
+              </a>
+              <b xsi:type="PerlinHMap">
+                <genes>
+                  <float>0.711488247</float>
+                  <float>-0.721399069</float>
+                  <float>11.2138538</float>
+                  <float>8.319792</float>
+                  <float>0.578603268</float>
+                </genes>
+              </b>
+            </b>
+          </b>
+        </a>
+        <b xsi:type="SumHMap">
+          <genes>
+            <float>0.345598429</float>
+            <float>-0.736620665</float>
+          </genes>
+          <a xsi:type="ElipseHMap">
+            <genes>
+              <float>-0.8245251</float>
+              <float>0.198137164</float>
+              <float>0.609580457</float>
+              <float>0.75154227</float>
+              <float>0.654168963</float>
+            </genes>
+          </a>
+          <b xsi:type="ConstHMap">
+            <genes>
+              <float>-0.10947144</float>
+              <float>-0.694486856</float>
+              <float>-0.188703716</float>
+            </genes>
+          </b>
+        </b>
+      </a>
+      <b xsi:type="ProductHMap">
+        <genes>
+          <float>0</float>
+          <float>0</float>
+        </genes>
+        <a xsi:type="ElipseHMap">
+          <genes>
+            <float>-0.4097625</float>
+            <float>-0.9268012</float>
+            <float>1.598537</float>
+            <float>1.06830239</float>
+            <float>0.7551054</float>
+          </genes>
+        </a>
+        <b xsi:type="SumHMap">
+          <genes>
+            <float>0</float>
+            <float>0</float>
+          </genes>
+          <a xsi:type="SumHMap">
+            <genes>
+              <float>0.345598429</float>
+              <float>-0.736620665</float>
+            </genes>
+            <a xsi:type="ElipseHMap">
+              <genes>
+                <float>-0.8245251</float>
+                <float>0.198137164</float>
+                <float>0.609580457</float>
+                <float>0.75154227</float>
+                <float>0.654168963</float>
+              </genes>
+            </a>
+            <b xsi:type="ConstHMap">
+              <genes>
+                <float>-0.10947144</float>
+                <float>-0.694486856</float>
+                <float>-0.188703716</float>
+              </genes>
+            </b>
+          </a>
+          <b xsi:type="ProductHMap">
+            <genes>
+              <float>0</float>
+              <float>0</float>
+            </genes>
+            <a xsi:type="MinHMap">
+              <genes>
+                <float>0</float>
+                <float>0</float>
+              </genes>
+              <a xsi:type="ElipseHMap">
+                <genes>
+                  <float>-0.299121618</float>
+                  <float>0.32482487</float>
+                  <float>2.148166</float>
+                  <float>1.25094259</float>
+                  <float>1.20039058</float>
+                </genes>
+              </a>
+              <b xsi:type="MinHMap">
+                <genes>
+                  <float>0</float>
+                  <float>0</float>
+                </genes>
+                <a xsi:type="ElipseHMap">
+                  <genes>
+                    <float>-0.4097625</float>
+                    <float>0.0543561</float>
+                    <float>3.566404</float>
+                    <float>1.25094259</float>
+                    <float>0.935871</float>
+                  </genes>
+                </a>
+                <b xsi:type="ProductHMap">
+                  <genes>
+                    <float>0</float>
+                    <float>0</float>
+                  </genes>
+                  <a xsi:type="SumHMap">
+                    <genes>
+                      <float>0</float>
+                      <float>0</float>
+                    </genes>
+                    <a xsi:type="SumHMap">
+                      <genes>
+                        <float>0.345598429</float>
+                        <float>-0.736620665</float>
+                      </genes>
+                      <a xsi:type="ElipseHMap">
+                        <genes>
+                          <float>-0.8245251</float>
+                          <float>0.198137164</float>
+                          <float>0.9548092</float>
+                          <float>0.75154227</float>
+                          <float>0.654168963</float>
+                        </genes>
+                      </a>
+                      <b xsi:type="MinHMap">
+                        <genes>
+                          <float>-0.496846318</float>
+                          <float>-0.4578718</float>
+                        </genes>
+                        <a xsi:type="ElipseHMap">
+                          <genes>
+                            <float>-0.8245251</float>
+                            <float>0.198137164</float>
+                            <float>0.609580457</float>
+                            <float>0.75154227</float>
+                            <float>0.654168963</float>
+                          </genes>
+                        </a>
+                        <b xsi:type="MinHMap">
+                          <genes>
+                            <float>-0.733126163</float>
+                            <float>0.6052904</float>
+                          </genes>
+                          <a xsi:type="ConstHMap">
+                            <genes>
+                              <float>-0.10947144</float>
+                              <float>-0.694486856</float>
+                              <float>-0.188703716</float>
+                            </genes>
+                          </a>
+                          <b xsi:type="PerlinHMap">
+                            <genes>
+                              <float>0.711488247</float>
+                              <float>-0.721399069</float>
+                              <float>11.2138538</float>
+                              <float>8.319792</float>
+                              <float>0.578603268</float>
+                            </genes>
+                          </b>
+                        </b>
+                      </b>
+                    </a>
+                    <b xsi:type="SumHMap">
+                      <genes>
+                        <float>0.345598429</float>
+                        <float>-0.736620665</float>
+                      </genes>
+                      <a xsi:type="ElipseHMap">
+                        <genes>
+                          <float>-0.8245251</float>
+                          <float>0.198137164</float>
+                          <float>0.609580457</float>
+                          <float>0.75154227</float>
+                          <float>0.654168963</float>
+                        </genes>
+                      </a>
+                      <b xsi:type="MinHMap">
+                        <genes>
+                          <float>-0.496846318</float>
+                          <float>-0.4578718</float>
+                        </genes>
+                        <a xsi:type="ElipseHMap">
+                          <genes>
+                            <float>-0.8245251</float>
+                            <float>0.198137164</float>
+                            <float>0.609580457</float>
+                            <float>0.75154227</float>
+                            <float>0.654168963</float>
+                          </genes>
+                        </a>
+                        <b xsi:type="MinHMap">
+                          <genes>
+                            <float>-0.733126163</float>
+                            <float>0.6052904</float>
+                          </genes>
+                          <a xsi:type="ConstHMap">
+                            <genes>
+                              <float>-0.10947144</float>
+                              <float>-0.694486856</float>
+                              <float>-0.188703716</float>
+                            </genes>
+                          </a>
+                          <b xsi:type="ElipseHMap">
+                            <genes>
+                              <float>0.624688864</float>
+                              <float>-0.430004</float>
+                              <float>0.14835459</float>
+                              <float>0.0774003938</float>
+                              <float>0.796784163</float>
+                            </genes>
+                          </b>
+                        </b>
+                      </b>
+                    </b>
+                  </a>
+                  <b xsi:type="ProductHMap">
+                    <genes>
+                      <float>0</float>
+                      <float>0</float>
+                    </genes>
+                    <a xsi:type="MaxHMap">
+                      <genes>
+                        <float>0</float>
+                        <float>0</float>
+                      </genes>
+                      <a xsi:type="ElipseHMap">
+                        <genes>
+                          <float>-0.4097625</float>
+                          <float>-0.9268012</float>
+                          <float>1.2915591</float>
+                          <float>1.06830239</float>
+                          <float>0.7551054</float>
+                        </genes>
+                      </a>
+                      <b xsi:type="ElipseHMap">
+                        <genes>
+                          <float>-0.8245251</float>
+                          <float>0.198137164</float>
+                          <float>0.609580457</float>
+                          <float>1.15176928</float>
+                          <float>0.654168963</float>
+                        </genes>
+                      </b>
+                    </a>
+                    <b xsi:type="SumHMap">
+                      <genes>
+                        <float>0</float>
+                        <float>0</float>
+                      </genes>
+                      <a xsi:type="SumHMap">
+                        <genes>
+                          <float>0.345598429</float>
+                          <float>-0.736620665</float>
+                        </genes>
+                        <a xsi:type="ElipseHMap">
+                          <genes>
+                            <float>-0.8245251</float>
+                            <float>0.198137164</float>
+                            <float>0.609580457</float>
+                            <float>0.75154227</float>
+                            <float>0.654168963</float>
+                          </genes>
+                        </a>
+                        <b xsi:type="ConstHMap">
+                          <genes>
+                            <float>-0.10947144</float>
+                            <float>-0.694486856</float>
+                            <float>-0.188703716</float>
+                          </genes>
+                        </b>
+                      </a>
+                      <b xsi:type="ProductHMap">
+                        <genes>
+                          <float>0</float>
+                          <float>0</float>
+                        </genes>
+                        <a xsi:type="MinHMap">
+                          <genes>
+                            <float>0</float>
+                            <float>0</float>
+                          </genes>
+                          <a xsi:type="ElipseHMap">
+                            <genes>
+                              <float>-0.4097625</float>
+                              <float>0.32482487</float>
+                              <float>2.148166</float>
+                              <float>1.25094259</float>
+                              <float>1.20039058</float>
+                            </genes>
+                          </a>
+                          <b xsi:type="ProductHMap">
+                            <genes>
+                              <float>0</float>
+                              <float>0</float>
+                            </genes>
+                            <a xsi:type="SumHMap">
+                              <genes>
+                                <float>0</float>
+                                <float>0</float>
+                              </genes>
+                              <a xsi:type="SumHMap">
+                                <genes>
+                                  <float>0.345598429</float>
+                                  <float>-0.736620665</float>
+                                </genes>
+                                <a xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.8245251</float>
+                                    <float>0.198137164</float>
+                                    <float>0.9548092</float>
+                                    <float>0.75154227</float>
+                                    <float>0.654168963</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="MinHMap">
+                                  <genes>
+                                    <float>-0.496846318</float>
+                                    <float>-0.4578718</float>
+                                  </genes>
+                                  <a xsi:type="ElipseHMap">
+                                    <genes>
+                                      <float>-0.8245251</float>
+                                      <float>0.198137164</float>
+                                      <float>0.609580457</float>
+                                      <float>0.75154227</float>
+                                      <float>0.654168963</float>
+                                    </genes>
+                                  </a>
+                                  <b xsi:type="MinHMap">
+                                    <genes>
+                                      <float>-0.733126163</float>
+                                      <float>0.6052904</float>
+                                    </genes>
+                                    <a xsi:type="ConstHMap">
+                                      <genes>
+                                        <float>-0.10947144</float>
+                                        <float>-0.694486856</float>
+                                        <float>-0.188703716</float>
+                                      </genes>
+                                    </a>
+                                    <b xsi:type="PerlinHMap">
+                                      <genes>
+                                        <float>0.711488247</float>
+                                        <float>-0.721399069</float>
+                                        <float>11.2138538</float>
+                                        <float>8.319792</float>
+                                        <float>0.578603268</float>
+                                      </genes>
+                                    </b>
+                                  </b>
+                                </b>
+                              </a>
+                              <b xsi:type="SumHMap">
+                                <genes>
+                                  <float>0.345598429</float>
+                                  <float>-0.736620665</float>
+                                </genes>
+                                <a xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.8245251</float>
+                                    <float>0.198137164</float>
+                                    <float>0.609580457</float>
+                                    <float>0.75154227</float>
+                                    <float>0.654168963</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="MinHMap">
+                                  <genes>
+                                    <float>-0.496846318</float>
+                                    <float>-0.4578718</float>
+                                  </genes>
+                                  <a xsi:type="ElipseHMap">
+                                    <genes>
+                                      <float>-0.8245251</float>
+                                      <float>0.198137164</float>
+                                      <float>0.609580457</float>
+                                      <float>0.75154227</float>
+                                      <float>0.654168963</float>
+                                    </genes>
+                                  </a>
+                                  <b xsi:type="MinHMap">
+                                    <genes>
+                                      <float>-0.733126163</float>
+                                      <float>0.6052904</float>
+                                    </genes>
+                                    <a xsi:type="ConstHMap">
+                                      <genes>
+                                        <float>-0.10947144</float>
+                                        <float>-0.694486856</float>
+                                        <float>-0.188703716</float>
+                                      </genes>
+                                    </a>
+                                    <b xsi:type="ElipseHMap">
+                                      <genes>
+                                        <float>0.624688864</float>
+                                        <float>-0.430004</float>
+                                        <float>0.14835459</float>
+                                        <float>0.0774003938</float>
+                                        <float>0.796784163</float>
+                                      </genes>
+                                    </b>
+                                  </b>
+                                </b>
+                              </b>
+                            </a>
+                            <b xsi:type="ProductHMap">
+                              <genes>
+                                <float>0</float>
+                                <float>0</float>
+                              </genes>
+                              <a xsi:type="MaxHMap">
+                                <genes>
+                                  <float>0</float>
+                                  <float>0</float>
+                                </genes>
+                                <a xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.4097625</float>
+                                    <float>-0.9268012</float>
+                                    <float>0.5024338</float>
+                                    <float>1.06830239</float>
+                                    <float>0.7551054</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.8245251</float>
+                                    <float>0.198137164</float>
+                                    <float>0.609580457</float>
+                                    <float>1.15176928</float>
+                                    <float>0.654168963</float>
+                                  </genes>
+                                </b>
+                              </a>
+                              <b xsi:type="SumHMap">
+                                <genes>
+                                  <float>0</float>
+                                  <float>0</float>
+                                </genes>
+                                <a xsi:type="SumHMap">
+                                  <genes>
+                                    <float>0.345598429</float>
+                                    <float>-0.736620665</float>
+                                  </genes>
+                                  <a xsi:type="ElipseHMap">
+                                    <genes>
+                                      <float>-0.8245251</float>
+                                      <float>0.198137164</float>
+                                      <float>0.609580457</float>
+                                      <float>0.75154227</float>
+                                      <float>0.654168963</float>
+                                    </genes>
+                                  </a>
+                                  <b xsi:type="ConstHMap">
+                                    <genes>
+                                      <float>-0.10947144</float>
+                                      <float>-0.694486856</float>
+                                      <float>-0.188703716</float>
+                                    </genes>
+                                  </b>
+                                </a>
+                                <b xsi:type="ProductHMap">
+                                  <genes>
+                                    <float>0</float>
+                                    <float>0</float>
+                                  </genes>
+                                  <a xsi:type="ProductHMap">
+                                    <genes>
+                                      <float>0</float>
+                                      <float>0</float>
+                                    </genes>
+                                    <a xsi:type="MaxHMap">
+                                      <genes>
+                                        <float>0</float>
+                                        <float>0</float>
+                                      </genes>
+                                      <a xsi:type="SumHMap">
+                                        <genes>
+                                          <float>-0.0454796553</float>
+                                          <float>0.5323539</float>
+                                        </genes>
+                                        <a xsi:type="ElipseHMap">
+                                          <genes>
+                                            <float>0.624688864</float>
+                                            <float>-0.430004</float>
+                                            <float>0.14835459</float>
+                                            <float>0.0774003938</float>
+                                            <float>0.796784163</float>
+                                          </genes>
+                                        </a>
+                                        <b xsi:type="MinHMap">
+                                          <genes>
+                                            <float>-0.274940848</float>
+                                            <float>0.191152692</float>
+                                          </genes>
+                                          <a xsi:type="MaxHMap">
+                                            <genes>
+                                              <float>0.5289941</float>
+                                              <float>-0.639948845</float>
+                                            </genes>
+                                            <a xsi:type="XParamHMap">
+                                              <genes>
+                                                <float>0.0256122351</float>
+                                                <float>-0.829452753</float>
+                                                <float>0.6539619</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="MaxHMap">
+                                              <genes>
+                                                <float>0.2637863</float>
+                                                <float>-0.667901039</float>
+                                              </genes>
+                                              <a xsi:type="ConstHMap">
+                                                <genes>
+                                                  <float>-0.182329774</float>
+                                                  <float>-0.60963726</float>
+                                                  <float>0.109590709</float>
+                                                </genes>
+                                              </a>
+                                              <b xsi:type="ElipseHMap">
+                                                <genes>
+                                                  <float>0.598796844</float>
+                                                  <float>0.964319944</float>
+                                                  <float>0.7259938</float>
+                                                  <float>0.7008746</float>
+                                                  <float>0.06092676</float>
+                                                </genes>
+                                              </b>
+                                            </b>
+                                          </a>
+                                          <b xsi:type="XParamHMap">
+                                            <genes>
+                                              <float>-0.8946471</float>
+                                              <float>-0.378524184</float>
+                                              <float>-0.594675064</float>
+                                            </genes>
+                                          </b>
+                                        </b>
+                                      </a>
+                                      <b xsi:type="SumHMap">
+                                        <genes>
+                                          <float>0</float>
+                                          <float>0</float>
+                                        </genes>
+                                        <a xsi:type="ProductHMap">
+                                          <genes>
+                                            <float>0.02487588</float>
+                                            <float>0</float>
+                                          </genes>
+                                          <a xsi:type="MaxHMap">
+                                            <genes>
+                                              <float>0</float>
+                                              <float>0</float>
+                                            </genes>
+                                            <a xsi:type="ElipseHMap">
+                                              <genes>
+                                                <float>-0.4097625</float>
+                                                <float>-0.9268012</float>
+                                                <float>0.5024338</float>
+                                                <float>1.06830239</float>
+                                                <float>0.7551054</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="ProductHMap">
+                                              <genes>
+                                                <float>0</float>
+                                                <float>0</float>
+                                              </genes>
+                                              <a xsi:type="MaxHMap">
+                                                <genes>
+                                                  <float>0</float>
+                                                  <float>0.1837213</float>
+                                                </genes>
+                                                <a xsi:type="ElipseHMap">
+                                                  <genes>
+                                                    <float>-0.4097625</float>
+                                                    <float>-0.9268012</float>
+                                                    <float>0.5024338</float>
+                                                    <float>1.06830239</float>
+                                                    <float>0.7551054</float>
+                                                  </genes>
+                                                </a>
+                                                <b xsi:type="SumHMap">
+                                                  <genes>
+                                                    <float>0.345598429</float>
+                                                    <float>-0.692827463</float>
+                                                  </genes>
+                                                  <a xsi:type="ElipseHMap">
+                                                    <genes>
+                                                      <float>-0.8245251</float>
+                                                      <float>0.198137164</float>
+                                                      <float>0.609580457</float>
+                                                      <float>0.75154227</float>
+                                                      <float>0.654168963</float>
+                                                    </genes>
+                                                  </a>
+                                                  <b xsi:type="ProductHMap">
+                                                    <genes>
+                                                      <float>0</float>
+                                                      <float>0</float>
+                                                    </genes>
+                                                    <a xsi:type="SumHMap">
+                                                      <genes>
+                                                        <float>-0.394756675</float>
+                                                        <float>0.8461492</float>
+                                                      </genes>
+                                                      <a xsi:type="XParamHMap">
+                                                        <genes>
+                                                          <float>0.308510751</float>
+                                                          <float>-0.7617452</float>
+                                                          <float>-0.573251963</float>
+                                                        </genes>
+                                                      </a>
+                                                      <b xsi:type="MinHMap">
+                                                        <genes>
+                                                          <float>0.674006</float>
+                                                          <float>0.369930476</float>
+                                                        </genes>
+                                                        <a xsi:type="XParamHMap">
+                                                          <genes>
+                                                            <float>-0.244728923</float>
+                                                            <float>0.318310946</float>
+                                                            <float>0.05109155</float>
+                                                          </genes>
+                                                        </a>
+                                                        <b xsi:type="ElipseHMap">
+                                                          <genes>
+                                                            <float>-0.5089288</float>
+                                                            <float>0.9989307</float>
+                                                            <float>0.7422465</float>
+                                                            <float>0.444556028</float>
+                                                            <float>1.12653172</float>
+                                                          </genes>
+                                                        </b>
+                                                      </b>
+                                                    </a>
+                                                    <b xsi:type="PerlinHMap">
+                                                      <genes>
+                                                        <float>-0.767805338</float>
+                                                        <float>-0.408247352</float>
+                                                        <float>16.4771385</float>
+                                                        <float>10.4219923</float>
+                                                        <float>1.06202424</float>
+                                                      </genes>
+                                                    </b>
+                                                  </b>
+                                                </b>
+                                              </a>
+                                              <b xsi:type="MaxHMap">
+                                                <genes>
+                                                  <float>0.311891526</float>
+                                                  <float>0.6066902</float>
+                                                </genes>
+                                                <a xsi:type="ConstHMap">
+                                                  <genes>
+                                                    <float>0.308402747</float>
+                                                    <float>-0.111082435</float>
+                                                    <float>0.474972367</float>
+                                                  </genes>
+                                                </a>
+                                                <b xsi:type="MinHMap">
+                                                  <genes>
+                                                    <float>-0.7100723</float>
+                                                    <float>0.436848134</float>
+                                                  </genes>
+                                                  <a xsi:type="ConstHMap">
+                                                    <genes>
+                                                      <float>0.961411953</float>
+                                                      <float>-0.7569704</float>
+                                                      <float>0.438141</float>
+                                                    </genes>
+                                                  </a>
+                                                  <b xsi:type="PerlinHMap">
+                                                    <genes>
+                                                      <float>0.281828135</float>
+                                                      <float>0.917988062</float>
+                                                      <float>16.7616482</float>
+                                                      <float>6.88239861</float>
+                                                      <float>0.708935142</float>
+                                                    </genes>
+                                                  </b>
+                                                </b>
+                                              </b>
+                                            </b>
+                                          </a>
+                                          <b xsi:type="SumHMap">
+                                            <genes>
+                                              <float>0</float>
+                                              <float>0.2295599</float>
+                                            </genes>
+                                            <a xsi:type="PerlinHMap">
+                                              <genes>
+                                                <float>-0.2774483</float>
+                                                <float>-0.811226845</float>
+                                                <float>14.9959784</float>
+                                                <float>19.8621445</float>
+                                                <float>0.8157321</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="SumHMap">
+                                              <genes>
+                                                <float>0.345598429</float>
+                                                <float>-0.736620665</float>
+                                              </genes>
+                                              <a xsi:type="ElipseHMap">
+                                                <genes>
+                                                  <float>-0.8245251</float>
+                                                  <float>0.198137164</float>
+                                                  <float>0.609580457</float>
+                                                  <float>0.75154227</float>
+                                                  <float>0.654168963</float>
+                                                </genes>
+                                              </a>
+                                              <b xsi:type="MinHMap">
+                                                <genes>
+                                                  <float>-0.496846318</float>
+                                                  <float>-0.4578718</float>
+                                                </genes>
+                                                <a xsi:type="ElipseHMap">
+                                                  <genes>
+                                                    <float>-0.8245251</float>
+                                                    <float>0.198137164</float>
+                                                    <float>0.609580457</float>
+                                                    <float>0.75154227</float>
+                                                    <float>0.654168963</float>
+                                                  </genes>
+                                                </a>
+                                                <b xsi:type="MinHMap">
+                                                  <genes>
+                                                    <float>-0.733126163</float>
+                                                    <float>0.6052904</float>
+                                                  </genes>
+                                                  <a xsi:type="ConstHMap">
+                                                    <genes>
+                                                      <float>-0.10947144</float>
+                                                      <float>-0.694486856</float>
+                                                      <float>-0.188703716</float>
+                                                    </genes>
+                                                  </a>
+                                                  <b xsi:type="PerlinHMap">
+                                                    <genes>
+                                                      <float>0.711488247</float>
+                                                      <float>-0.721399069</float>
+                                                      <float>11.2138538</float>
+                                                      <float>8.319792</float>
+                                                      <float>0.578603268</float>
+                                                    </genes>
+                                                  </b>
+                                                </b>
+                                              </b>
+                                            </b>
+                                          </b>
+                                        </a>
+                                        <b xsi:type="MinHMap">
+                                          <genes>
+                                            <float>0.266236246</float>
+                                            <float>0</float>
+                                          </genes>
+                                          <a xsi:type="PerlinHMap">
+                                            <genes>
+                                              <float>-0.664406538</float>
+                                              <float>-0.353126168</float>
+                                              <float>13.7438631</float>
+                                              <float>5.6877327</float>
+                                              <float>0.8807367</float>
+                                            </genes>
+                                          </a>
+                                          <b xsi:type="MaxHMap">
+                                            <genes>
+                                              <float>0.19192946</float>
+                                              <float>0.1440643</float>
+                                            </genes>
+                                            <a xsi:type="YParamHMap">
+                                              <genes>
+                                                <float>-0.0181418657</float>
+                                                <float>0.35348174</float>
+                                                <float>-0.5997119</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="MaxHMap">
+                                              <genes>
+                                                <float>0.8110442</float>
+                                                <float>0.7441466</float>
+                                              </genes>
+                                              <a xsi:type="PerlinHMap">
+                                                <genes>
+                                                  <float>0.786471367</float>
+                                                  <float>-0.924206</float>
+                                                  <float>12.12891</float>
+                                                  <float>16.9660873</float>
+                                                  <float>0.892506063</float>
+                                                </genes>
+                                              </a>
+                                              <b xsi:type="ConstHMap">
+                                                <genes>
+                                                  <float>-0.3090483</float>
+                                                  <float>-0.433169723</float>
+                                                  <float>-0.0629043</float>
+                                                </genes>
+                                              </b>
+                                            </b>
+                                          </b>
+                                        </b>
+                                      </b>
+                                    </a>
+                                    <b xsi:type="ElipseHMap">
+                                      <genes>
+                                        <float>-0.4097625</float>
+                                        <float>-0.9268012</float>
+                                        <float>0.5024338</float>
+                                        <float>1.06830239</float>
+                                        <float>0.916847467</float>
+                                      </genes>
+                                    </b>
+                                  </a>
+                                  <b xsi:type="SumHMap">
+                                    <genes>
+                                      <float>0</float>
+                                      <float>0.2295599</float>
+                                    </genes>
+                                    <a xsi:type="ProductHMap">
+                                      <genes>
+                                        <float>0</float>
+                                        <float>0</float>
+                                      </genes>
+                                      <a xsi:type="MaxHMap">
+                                        <genes>
+                                          <float>0</float>
+                                          <float>0</float>
+                                        </genes>
+                                        <a xsi:type="ElipseHMap">
+                                          <genes>
+                                            <float>-0.4097625</float>
+                                            <float>-0.9268012</float>
+                                            <float>0.5024338</float>
+                                            <float>1.06830239</float>
+                                            <float>0.7551054</float>
+                                          </genes>
+                                        </a>
+                                        <b xsi:type="ElipseHMap">
+                                          <genes>
+                                            <float>-0.8245251</float>
+                                            <float>0.198137164</float>
+                                            <float>0.609580457</float>
+                                            <float>0.75154227</float>
+                                            <float>0.654168963</float>
+                                          </genes>
+                                        </b>
+                                      </a>
+                                      <b xsi:type="SumHMap">
+                                        <genes>
+                                          <float>0</float>
+                                          <float>0</float>
+                                        </genes>
+                                        <a xsi:type="SumHMap">
+                                          <genes>
+                                            <float>0.345598429</float>
+                                            <float>-0.736620665</float>
+                                          </genes>
+                                          <a xsi:type="ElipseHMap">
+                                            <genes>
+                                              <float>-0.8245251</float>
+                                              <float>0.198137164</float>
+                                              <float>0.609580457</float>
+                                              <float>0.75154227</float>
+                                              <float>0.654168963</float>
+                                            </genes>
+                                          </a>
+                                          <b xsi:type="ConstHMap">
+                                            <genes>
+                                              <float>-0.10947144</float>
+                                              <float>-0.694486856</float>
+                                              <float>-0.188703716</float>
+                                            </genes>
+                                          </b>
+                                        </a>
+                                        <b xsi:type="MinHMap">
+                                          <genes>
+                                            <float>0.266236246</float>
+                                            <float>0</float>
+                                          </genes>
+                                          <a xsi:type="PerlinHMap">
+                                            <genes>
+                                              <float>-0.664406538</float>
+                                              <float>-0.353126168</float>
+                                              <float>13.7438631</float>
+                                              <float>5.6877327</float>
+                                              <float>0.8807367</float>
+                                            </genes>
+                                          </a>
+                                          <b xsi:type="MaxHMap">
+                                            <genes>
+                                              <float>0.19192946</float>
+                                              <float>0.1440643</float>
+                                            </genes>
+                                            <a xsi:type="YParamHMap">
+                                              <genes>
+                                                <float>-0.0181418657</float>
+                                                <float>0.35348174</float>
+                                                <float>-0.5997119</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="MaxHMap">
+                                              <genes>
+                                                <float>0.8110442</float>
+                                                <float>0.7441466</float>
+                                              </genes>
+                                              <a xsi:type="PerlinHMap">
+                                                <genes>
+                                                  <float>0.786471367</float>
+                                                  <float>-0.924206</float>
+                                                  <float>12.12891</float>
+                                                  <float>16.9660873</float>
+                                                  <float>0.892506063</float>
+                                                </genes>
+                                              </a>
+                                              <b xsi:type="ConstHMap">
+                                                <genes>
+                                                  <float>-0.3090483</float>
+                                                  <float>-0.433169723</float>
+                                                  <float>-0.0629043</float>
+                                                </genes>
+                                              </b>
+                                            </b>
+                                          </b>
+                                        </b>
+                                      </b>
+                                    </a>
+                                    <b xsi:type="SumHMap">
+                                      <genes>
+                                        <float>0</float>
+                                        <float>0.2295599</float>
+                                      </genes>
+                                      <a xsi:type="SumHMap">
+                                        <genes>
+                                          <float>0.345598429</float>
+                                          <float>-0.736620665</float>
+                                        </genes>
+                                        <a xsi:type="ElipseHMap">
+                                          <genes>
+                                            <float>-0.8245251</float>
+                                            <float>0.198137164</float>
+                                            <float>0.609580457</float>
+                                            <float>0.75154227</float>
+                                            <float>0.654168963</float>
+                                          </genes>
+                                        </a>
+                                        <b xsi:type="MinHMap">
+                                          <genes>
+                                            <float>-0.496846318</float>
+                                            <float>-0.4578718</float>
+                                          </genes>
+                                          <a xsi:type="ElipseHMap">
+                                            <genes>
+                                              <float>-0.8245251</float>
+                                              <float>0.198137164</float>
+                                              <float>0.609580457</float>
+                                              <float>0.75154227</float>
+                                              <float>0.654168963</float>
+                                            </genes>
+                                          </a>
+                                          <b xsi:type="MinHMap">
+                                            <genes>
+                                              <float>-0.733126163</float>
+                                              <float>0.6052904</float>
+                                            </genes>
+                                            <a xsi:type="ConstHMap">
+                                              <genes>
+                                                <float>-0.10947144</float>
+                                                <float>-0.694486856</float>
+                                                <float>-0.188703716</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="PerlinHMap">
+                                              <genes>
+                                                <float>0.711488247</float>
+                                                <float>-0.721399069</float>
+                                                <float>11.2138538</float>
+                                                <float>8.319792</float>
+                                                <float>0.578603268</float>
+                                              </genes>
+                                            </b>
+                                          </b>
+                                        </b>
+                                      </a>
+                                      <b xsi:type="SumHMap">
+                                        <genes>
+                                          <float>0.345598429</float>
+                                          <float>-0.736620665</float>
+                                        </genes>
+                                        <a xsi:type="ElipseHMap">
+                                          <genes>
+                                            <float>-0.8245251</float>
+                                            <float>0.198137164</float>
+                                            <float>0.609580457</float>
+                                            <float>0.75154227</float>
+                                            <float>0.654168963</float>
+                                          </genes>
+                                        </a>
+                                        <b xsi:type="MinHMap">
+                                          <genes>
+                                            <float>-0.496846318</float>
+                                            <float>-0.4578718</float>
+                                          </genes>
+                                          <a xsi:type="ElipseHMap">
+                                            <genes>
+                                              <float>-0.8245251</float>
+                                              <float>0.198137164</float>
+                                              <float>0.609580457</float>
+                                              <float>0.75154227</float>
+                                              <float>0.654168963</float>
+                                            </genes>
+                                          </a>
+                                          <b xsi:type="MinHMap">
+                                            <genes>
+                                              <float>-0.733126163</float>
+                                              <float>0.6052904</float>
+                                            </genes>
+                                            <a xsi:type="ConstHMap">
+                                              <genes>
+                                                <float>-0.10947144</float>
+                                                <float>-0.694486856</float>
+                                                <float>-0.188703716</float>
+                                              </genes>
+                                            </a>
+                                            <b xsi:type="ElipseHMap">
+                                              <genes>
+                                                <float>0.624688864</float>
+                                                <float>-0.430004</float>
+                                                <float>0.14835459</float>
+                                                <float>0.0774003938</float>
+                                                <float>0.796784163</float>
+                                              </genes>
+                                            </b>
+                                          </b>
+                                        </b>
+                                      </b>
+                                    </b>
+                                  </b>
+                                </b>
+                              </b>
+                            </b>
+                          </b>
+                        </a>
+                        <b xsi:type="SumHMap">
+                          <genes>
+                            <float>0</float>
+                            <float>0.2295599</float>
+                          </genes>
+                          <a xsi:type="ProductHMap">
+                            <genes>
+                              <float>0</float>
+                              <float>0</float>
+                            </genes>
+                            <a xsi:type="MaxHMap">
+                              <genes>
+                                <float>0</float>
+                                <float>0</float>
+                              </genes>
+                              <a xsi:type="ElipseHMap">
+                                <genes>
+                                  <float>-0.4097625</float>
+                                  <float>-0.9268012</float>
+                                  <float>0.5024338</float>
+                                  <float>1.06830239</float>
+                                  <float>0.7551054</float>
+                                </genes>
+                              </a>
+                              <b xsi:type="ElipseHMap">
+                                <genes>
+                                  <float>-0.8245251</float>
+                                  <float>0.198137164</float>
+                                  <float>0.609580457</float>
+                                  <float>0.75154227</float>
+                                  <float>0.654168963</float>
+                                </genes>
+                              </b>
+                            </a>
+                            <b xsi:type="SumHMap">
+                              <genes>
+                                <float>0</float>
+                                <float>0</float>
+                              </genes>
+                              <a xsi:type="SumHMap">
+                                <genes>
+                                  <float>0.345598429</float>
+                                  <float>-0.736620665</float>
+                                </genes>
+                                <a xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.8245251</float>
+                                    <float>0.198137164</float>
+                                    <float>0.609580457</float>
+                                    <float>0.75154227</float>
+                                    <float>0.654168963</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="ConstHMap">
+                                  <genes>
+                                    <float>-0.10947144</float>
+                                    <float>-0.694486856</float>
+                                    <float>-0.188703716</float>
+                                  </genes>
+                                </b>
+                              </a>
+                              <b xsi:type="MinHMap">
+                                <genes>
+                                  <float>0.266236246</float>
+                                  <float>0</float>
+                                </genes>
+                                <a xsi:type="PerlinHMap">
+                                  <genes>
+                                    <float>-0.664406538</float>
+                                    <float>-0.353126168</float>
+                                    <float>13.7438631</float>
+                                    <float>5.6877327</float>
+                                    <float>0.8807367</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="MaxHMap">
+                                  <genes>
+                                    <float>0.19192946</float>
+                                    <float>0.1440643</float>
+                                  </genes>
+                                  <a xsi:type="YParamHMap">
+                                    <genes>
+                                      <float>-0.0181418657</float>
+                                      <float>0.35348174</float>
+                                      <float>-0.5997119</float>
+                                    </genes>
+                                  </a>
+                                  <b xsi:type="MaxHMap">
+                                    <genes>
+                                      <float>0.8110442</float>
+                                      <float>0.7441466</float>
+                                    </genes>
+                                    <a xsi:type="PerlinHMap">
+                                      <genes>
+                                        <float>0.786471367</float>
+                                        <float>-0.924206</float>
+                                        <float>12.12891</float>
+                                        <float>16.9660873</float>
+                                        <float>0.892506063</float>
+                                      </genes>
+                                    </a>
+                                    <b xsi:type="ConstHMap">
+                                      <genes>
+                                        <float>-0.3090483</float>
+                                        <float>-0.433169723</float>
+                                        <float>-0.0629043</float>
+                                      </genes>
+                                    </b>
+                                  </b>
+                                </b>
+                              </b>
+                            </b>
+                          </a>
+                          <b xsi:type="SumHMap">
+                            <genes>
+                              <float>0</float>
+                              <float>0.2295599</float>
+                            </genes>
+                            <a xsi:type="SumHMap">
+                              <genes>
+                                <float>0.345598429</float>
+                                <float>-0.736620665</float>
+                              </genes>
+                              <a xsi:type="ElipseHMap">
+                                <genes>
+                                  <float>-0.8245251</float>
+                                  <float>0.198137164</float>
+                                  <float>0.609580457</float>
+                                  <float>0.75154227</float>
+                                  <float>0.654168963</float>
+                                </genes>
+                              </a>
+                              <b xsi:type="MinHMap">
+                                <genes>
+                                  <float>-0.496846318</float>
+                                  <float>-0.4578718</float>
+                                </genes>
+                                <a xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.8245251</float>
+                                    <float>0.198137164</float>
+                                    <float>0.609580457</float>
+                                    <float>0.75154227</float>
+                                    <float>0.654168963</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="MinHMap">
+                                  <genes>
+                                    <float>-0.733126163</float>
+                                    <float>0.6052904</float>
+                                  </genes>
+                                  <a xsi:type="ConstHMap">
+                                    <genes>
+                                      <float>-0.10947144</float>
+                                      <float>-0.694486856</float>
+                                      <float>-0.188703716</float>
+                                    </genes>
+                                  </a>
+                                  <b xsi:type="PerlinHMap">
+                                    <genes>
+                                      <float>0.711488247</float>
+                                      <float>-0.721399069</float>
+                                      <float>11.2138538</float>
+                                      <float>8.319792</float>
+                                      <float>0.578603268</float>
+                                    </genes>
+                                  </b>
+                                </b>
+                              </b>
+                            </a>
+                            <b xsi:type="SumHMap">
+                              <genes>
+                                <float>0.345598429</float>
+                                <float>-0.736620665</float>
+                              </genes>
+                              <a xsi:type="ElipseHMap">
+                                <genes>
+                                  <float>-0.8245251</float>
+                                  <float>0.198137164</float>
+                                  <float>0.609580457</float>
+                                  <float>0.75154227</float>
+                                  <float>0.654168963</float>
+                                </genes>
+                              </a>
+                              <b xsi:type="MinHMap">
+                                <genes>
+                                  <float>-0.496846318</float>
+                                  <float>-0.4578718</float>
+                                </genes>
+                                <a xsi:type="ElipseHMap">
+                                  <genes>
+                                    <float>-0.8245251</float>
+                                    <float>0.198137164</float>
+                                    <float>0.609580457</float>
+                                    <float>0.75154227</float>
+                                    <float>0.654168963</float>
+                                  </genes>
+                                </a>
+                                <b xsi:type="MinHMap">
+                                  <genes>
+                                    <float>-0.733126163</float>
+                                    <float>0.6052904</float>
+                                  </genes>
+                                  <a xsi:type="ConstHMap">
+                                    <genes>
+                                      <float>-0.10947144</float>
+                                      <float>-0.694486856</float>
+                                      <float>-0.188703716</float>
+                                    </genes>
+                                  </a>
+                                  <b xsi:type="ElipseHMap">
+                                    <genes>
+                                      <float>0.624688864</float>
+                                      <float>-0.430004</float>
+                                      <float>0.14835459</float>
+                                      <float>0.0774003938</float>
+                                      <float>0.796784163</float>
+                                    </genes>
+                                  </b>
+                                </b>
+                              </b>
+                            </b>
+                          </b>
+                        </b>
+                      </b>
+                    </b>
+                  </b>
+                </b>
+              </b>
+            </a>
+            <b xsi:type="SumHMap">
+              <genes>
+                <float>0</float>
+                <float>0.2295599</float>
+              </genes>
+              <a xsi:type="ProductHMap">
+                <genes>
+                  <float>0</float>
+                  <float>0</float>
+                </genes>
+                <a xsi:type="MaxHMap">
+                  <genes>
+                    <float>0</float>
+                    <float>0</float>
+                  </genes>
+                  <a xsi:type="ElipseHMap">
+                    <genes>
+                      <float>-0.4097625</float>
+                      <float>-0.9268012</float>
+                      <float>0.5024338</float>
+                      <float>1.06830239</float>
+                      <float>0.7551054</float>
+                    </genes>
+                  </a>
+                  <b xsi:type="ElipseHMap">
+                    <genes>
+                      <float>-0.8245251</float>
+                      <float>0.198137164</float>
+                      <float>0.609580457</float>
+                      <float>0.75154227</float>
+                      <float>0.654168963</float>
+                    </genes>
+                  </b>
+                </a>
+                <b xsi:type="SumHMap">
+                  <genes>
+                    <float>0</float>
+                    <float>0</float>
+                  </genes>
+                  <a xsi:type="SumHMap">
+                    <genes>
+                      <float>0.345598429</float>
+                      <float>-0.736620665</float>
+                    </genes>
+                    <a xsi:type="ElipseHMap">
+                      <genes>
+                        <float>-0.8245251</float>
+                        <float>0.198137164</float>
+                        <float>0.609580457</float>
+                        <float>0.75154227</float>
+                        <float>0.654168963</float>
+                      </genes>
+                    </a>
+                    <b xsi:type="ConstHMap">
+                      <genes>
+                        <float>-0.10947144</float>
+                        <float>-0.694486856</float>
+                        <float>-0.188703716</float>
+                      </genes>
+                    </b>
+                  </a>
+                  <b xsi:type="MinHMap">
+                    <genes>
+                      <float>0.266236246</float>
+                      <float>0</float>
+                    </genes>
+                    <a xsi:type="PerlinHMap">
+                      <genes>
+                        <float>-0.664406538</float>
+                        <float>-0.353126168</float>
+                        <float>13.7438631</float>
+                        <float>5.6877327</float>
+                        <float>0.8807367</float>
+                      </genes>
+                    </a>
+                    <b xsi:type="MaxHMap">
+                      <genes>
+                        <float>0.19192946</float>
+                        <float>0.1440643</float>
+                      </genes>
+                      <a xsi:type="YParamHMap">
+                        <genes>
+                          <float>-0.0181418657</float>
+                          <float>0.35348174</float>
+                          <float>-0.5997119</float>
+                        </genes>
+                      </a>
+                      <b xsi:type="MaxHMap">
+                        <genes>
+                          <float>0.8110442</float>
+                          <float>0.7441466</float>
+                        </genes>
+                        <a xsi:type="PerlinHMap">
+                          <genes>
+                            <float>0.786471367</float>
+                            <float>-0.924206</float>
+                            <float>12.12891</float>
+                            <float>16.9660873</float>
+                            <float>0.892506063</float>
+                          </genes>
+                        </a>
+                        <b xsi:type="ConstHMap">
+                          <genes>
+                            <float>-0.3090483</float>
+                            <float>-0.433169723</float>
+                            <float>-0.0629043</float>
+                          </genes>
+                        </b>
+                      </b>
+                    </b>
+                  </b>
+                </b>
+              </a>
+              <b xsi:type="SumHMap">
+                <genes>
+                  <float>0</float>
+                  <float>0.2295599</float>
+                </genes>
+                <a xsi:type="SumHMap">
+                  <genes>
+                    <float>0.345598429</float>
+                    <float>-0.736620665</float>
+                  </genes>
+                  <a xsi:type="ElipseHMap">
+                    <genes>
+                      <float>-0.8245251</float>
+                      <float>0.198137164</float>
+                      <float>0.609580457</float>
+                      <float>0.75154227</float>
+                      <float>0.654168963</float>
+                    </genes>
+                  </a>
+                  <b xsi:type="MinHMap">
+                    <genes>
+                      <float>-0.496846318</float>
+                      <float>-0.4578718</float>
+                    </genes>
+                    <a xsi:type="ElipseHMap">
+                      <genes>
+                        <float>-0.8245251</float>
+                        <float>0.198137164</float>
+                        <float>0.609580457</float>
+                        <float>0.75154227</float>
+                        <float>0.654168963</float>
+                      </genes>
+                    </a>
+                    <b xsi:type="MinHMap">
+                      <genes>
+                        <float>-0.733126163</float>
+                        <float>0.6052904</float>
+                      </genes>
+                      <a xsi:type="ConstHMap">
+                        <genes>
+                          <float>-0.10947144</float>
+                          <float>-0.694486856</float>
+                          <float>-0.188703716</float>
+                        </genes>
+                      </a>
+                      <b xsi:type="PerlinHMap">
+                        <genes>
+                          <float>0.711488247</float>
+                          <float>-0.721399069</float>
+                          <float>11.2138538</float>
+                          <float>8.319792</float>
+                          <float>0.578603268</float>
+                        </genes>
+                      </b>
+                    </b>
+                  </b>
+                </a>
+                <b xsi:type="SumHMap">
+                  <genes>
+                    <float>0.345598429</float>
+                    <float>-0.736620665</float>
+                  </genes>
+                  <a xsi:type="ElipseHMap">
+                    <genes>
+                      <float>-0.8245251</float>
+                      <float>0.198137164</float>
+                      <float>0.609580457</float>
+                      <float>0.75154227</float>
+                      <float>0.654168963</float>
+                    </genes>
+                  </a>
+                  <b xsi:type="MinHMap">
+                    <genes>
+                      <float>-0.496846318</float>
+                      <float>-0.4578718</float>
+                    </genes>
+                    <a xsi:type="ElipseHMap">
+                      <genes>
+                        <float>-0.8245251</float>
+                        <float>0.198137164</float>
+                        <float>0.609580457</float>
+                        <float>0.75154227</float>
+                        <float>0.654168963</float>
+                      </genes>
+                    </a>
+                    <b xsi:type="MinHMap">
+                      <genes>
+                        <float>-0.733126163</float>
+                        <float>0.6052904</float>
+                      </genes>
+                      <a xsi:type="ConstHMap">
+                        <genes>
+                          <float>-0.10947144</float>
+                          <float>-0.694486856</float>
+                          <float>-0.188703716</float>
+                        </genes>
+                      </a>
+                      <b xsi:type="ElipseHMap">
+                        <genes>
+                          <float>0.624688864</float>
+                          <float>-0.430004</float>
+                          <float>0.14835459</float>
+                          <float>0.0774003938</float>
+                          <float>0.796784163</float>
+                        </genes>
+                      </b>
+                    </b>
+                  </b>
+                </b>
+              </b>
+            </b>
+          </b>
+        </b>
+      </b>
+    </b>
+  </b>
+</HMapGen>
